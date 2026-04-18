@@ -1,1 +1,4 @@
 CODEX_BLUEPRINT.md
+node_modules/
+dist/
+.codex
